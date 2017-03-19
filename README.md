@@ -4,7 +4,7 @@ A creative coding project using p5.js and Matter.js. Based on data collected by 
 ![GIF Demo](http://trent.works/olinmail/demo.gif)
 
 ## Live demo
-[trent.works/olinmail](http://trent.works/olinmail)
+[http://trent.works/olinmail](http://trent.works/olinmail)
 
 ## Mechanics
 Dragging the slider moves you through the history of Olin's mailing lists. Each circle represents a different mailing list, and its size represents the volume of emails sent during the month. New circles fly in whenever a mailing list is created. When a circle turns "clear," this means the mailing list has been inactive (no emails sent) during the entire month.
