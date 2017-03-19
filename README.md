@@ -1,7 +1,7 @@
 # Visualizing Olin's Email Data
 A creative coding project using p5.js and Matter.js. Based on data collected by [@seanfoley123](http://github.com/seanfoley123).
 
-![GIF Demo](http://trent.works/olinmail/demo2.gif)
+[![GIF Demo](http://trent.works/olinmail/demo2.gif)](http://trent.works/olinmail)
 
 ## Live demo
 [http://trent.works/olinmail](http://trent.works/olinmail)
